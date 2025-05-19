@@ -11,7 +11,7 @@ Sistema de Controle Farmacêutico – Projeto realizado na disciplina Projeto In
 
 Protótipo: https://www.figma.com/design/9HdVhhraFejFHnP1MJItYZ/Sistema---PRINT1?node-id=0-1&t=nnNOBJVbzNuq6Dga-1
 
-Documentação + Plano de testes - https://github.com/DaniellyBenicio/sistema-farmacia-desktop.git
+Documentação + Plano de testes: https://github.com/DaniellyBenicio/sistema-farmacia-desktop.git
 
 
 
