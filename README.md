@@ -11,3 +11,4 @@ https://www.figma.com/design/9HdVhhraFejFHnP1MJItYZ/Sistema---PRINT1?node-id=0-1
 
 Documentação 
 
+Sistema Desktop para Fármacia + documentação + plano de testes - https://github.com/DaniellyBenicio/sistema-farmacia-desktop.git
